@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="synth" width="880"></p>
+
 <div align="center">
   <picture>
     <source srcset="assets/minimax-logo.png" media="(prefers-color-scheme: dark)">
