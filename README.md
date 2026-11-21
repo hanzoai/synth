@@ -25,6 +25,8 @@
 
 # SynLogic
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/synth&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/synth&ref=main&action=edit)
+
 This repository contains the code and data for SynLogic, a comprehensive logical reasoning data synthesis framework that generates diverse, verifiable reasoning data at scale. Our work addresses the critical gap in high-quality logical reasoning training data for developing general reasoning capabilities in Large Language Models (LLMs).
 
 <p align="center">
